@@ -21,7 +21,8 @@ This project explores the weather data from over 500 cities around the world, us
 
 ## Part 1: WeatherPy
 
-In **Part 1**, i visualized the weather data of over 500 cities to explore the relationship between various weather variables and latitude. The steps involved using the **OpenWeatherMap API** to collect data, and creating plots for the following relationships:
+In **Part 1**,
+i visualized the weather data of over 500 cities to explore the relationship between various weather variables and latitude. The steps involved using the **OpenWeatherMap API** to collect data, and creating plots for the following relationships:
 
 ### Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 
@@ -34,7 +35,7 @@ These plots were generated using Python's **Matplotlib** and **hvplot** librarie
 
 ### Compute Linear Regression for Each Relationship
 
-For each weather relationship mentioned above, we calculated linear regression for both the **Northern Hemisphere** and **Southern Hemisphere**.
+For each weather relationship mentioned above, i calculated linear regression for both the **Northern Hemisphere** and **Southern Hemisphere**.
 
 - **Northern Hemisphere:**
   - Temperature vs. Latitude
